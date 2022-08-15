@@ -1,0 +1,54 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza King",
+      "location": "Noida"
+    },
+    {
+      "name": "",
+      "location": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "location": "",
+      "id": 3
+    },
+    {
+      "name": "Burger King",
+      "location": "Noida",
+      "id": 4
+    },
+    {
+      "name": "Burger King",
+      "location": "Hisar",
+      "id": 5
+    },
+    {
+      "name": "",
+      "location": "",
+      "id": 6
+    },
+    {
+      "name": "Burger King",
+      "location": "Noida",
+      "id": 7
+    },
+    {
+      "name": "Burger King",
+      "location": "Noida",
+      "id": 8
+    },
+    {
+      "name": "Burger King",
+      "location": "Noida",
+      "id": 9
+    },
+    {
+      "name": "Burger King",
+      "location": "Noida",
+      "id": 10
+    }
+  ]
+}
